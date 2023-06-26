@@ -1,2 +1,2 @@
 # odin-recipes
-recipe
+<title>Cookie Recipes</title>
